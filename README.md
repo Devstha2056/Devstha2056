@@ -4,7 +4,7 @@
 
 🛜 currently working on Ticket Management Project.<br>👨🏼‍🎓 Completed bachelor's degree in BSc.Csit.<br>👨🏼‍💻 working as a Python developer since 2023. <br> 📫 How to reach me **shresthadevendra2056@gmail.com** <br> 💬 Ask me about <strong>Python/Odoo </strong>, I'm happy to help!
 
-[![](https://visitcount.itsvg.in/api?id=developer123sagar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Devstha2056&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Where to Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendra-kumar-shrestha-a14091278/)
