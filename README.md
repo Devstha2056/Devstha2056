@@ -1,16 +1,41 @@
-## Hi there 👋
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://anilrajrimal.com.np)
 
-<!--
-**Devstha2056/Devstha2056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World 👋🏼, I'm Devendra Kumar Shrestha, a Odoo developer at CRMIC.
 
-Here are some ideas to get you started:
+🛜 currently working on Digital Metric Addressing System (DMAPS) Project.<br>👨🏼‍🎓 Completed bachelor's degree in BSc.Csit.<br>👨🏼‍💻 working as a web developer since 2022. <br> 📫 How to reach me **chandsagar314@gmail.com** <br> 💬 Ask me about <strong>React/Next.js</strong>, I'm happy to help!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://visitcount.itsvg.in/api?id=developer123sagar&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Where to Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-chand/)
+
+## 🚀 Languages and Tools I Use
+
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" style="display: inline-block;"><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="Nextjs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
+<a target="_blank" href="https://ia803201.us.archive.org/30/items/github.com-react-hook-form-react-hook-form_-_2020-09-16_11-14-19/cover.jpg" style="display: inline-block;"><img src="https://ia803201.us.archive.org/30/items/github.com-react-hook-form-react-hook-form_-_2020-09-16_11-14-19/cover.jpg" alt="react hook form" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://openlayers.org/theme/img/logo-dark.svg" style="display: inline-block;"><img src="https://openlayers.org/theme/img/logo-dark.svg" alt="OpenLayers" width="42" height="42" /></a>
+<a target="_blank" href="https://maplibre.org/maplibre-gl-js/docs/assets/logo.svg" style="display: inline-block;"><img src="https://maplibre.org/maplibre-gl-js/docs/assets/logo.svg" alt="Maplibre" width="42" height="42" /></a>
+<a target="_blank" href="https://tanstack.com/_build/assets/logo-color-100w-lPbOTx1K.png" style="display: inline-block;"><img src="https://tanstack.com/_build/assets/logo-color-100w-lPbOTx1K.png" alt="tanstack" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.iconscout.com/icon/free/png-512/free-framer-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944880.png?f=webp&w=512" style="display: inline-block;"><img src="https://cdn.iconscout.com/icon/free/png-512/free-framer-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944880.png?f=webp&w=512" alt="framer motion" width="42" height="42" /></a>
+</p>
+
+## 🔥 My Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=developer123sagar&theme=shadow-purple&hide_border=false)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer123sagar/developer123sagar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developer123sagar/developer123sagar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/developer123sagar/developer123sagar/output/github-snake.svg" />
+</picture>
