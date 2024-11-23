@@ -33,10 +33,5 @@
 
 ## 🔥 My Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=developer123sagar&theme=shadow-purple&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Devstha2056&theme=shadow-purple&hide_border=false)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer123sagar/developer123sagar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developer123sagar/developer123sagar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/developer123sagar/developer123sagar/output/github-snake.svg" />
-</picture>
