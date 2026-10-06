@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/devendra-kumar-shrestha-a14091278/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shresthadevendra2056@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Devstha2056&style=for-the-badge&color=714B67&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -69,15 +68,11 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devstha2056&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A777E3&icon_color=00B8A9&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devstha2056&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A777E3&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devstha2056&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A777E3&langs_count=6&hide=jupyter%20notebook,scss" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Devstha2056&theme=tokyonight&hide_border=true&background=0d1117&ring=714B67&fire=00B8A9&currStreakLabel=A777E3" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devstha2056&bg_color=0d1117&color=A777E3&line=714B67&point=00B8A9&area=true&hide_border=true" />
 </p>
 
 ---
