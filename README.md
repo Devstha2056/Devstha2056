@@ -67,12 +67,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devstha2056&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A777E3&icon_color=00B8A9&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devstha2056&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A777E3&langs_count=6&hide=jupyter%20notebook,scss" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devstha2056&show_icons=true&hide_border=false&border_color=E4E2E2&border_radius=10&bg_color=FFFFFF&title_color=714B67&icon_color=017E84&text_color=333333&ring_color=714B67&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devstha2056&layout=compact&hide_border=false&border_color=E4E2E2&border_radius=10&bg_color=FFFFFF&title_color=714B67&text_color=333333&langs_count=6&hide=jupyter%20notebook,scss" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Devstha2056&theme=tokyonight&hide_border=true&background=0d1117&ring=714B67&fire=00B8A9&currStreakLabel=A777E3" />
+  <img src="https://streak-stats.demolab.com?user=Devstha2056&hide_border=false&border=E4E2E2&border_radius=10&background=FFFFFF&ring=714B67&fire=017E84&currStreakNum=333333&currStreakLabel=714B67&sideNums=714B67&sideLabels=555555&dates=888888&stroke=E4E2E2" />
 </p>
 
 ---
